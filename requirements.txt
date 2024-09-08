@@ -1,0 +1,10 @@
+torch==2.4.0+cu124
+loguru==0.7.2
+tqdm==4.66.5
+einops==0.8.0
+matplotlib==3.9.2
+openradar==1.0.1
+-e ./fpga_udp
+ultralytics==8.2.79
+'git+https://github.com/facebookresearch/segment-anything.git'
+tqdm==4.66.5
