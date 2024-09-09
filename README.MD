@@ -1,11 +1,11 @@
-# NeuroDet: Unfolding Target Detection with State Space Model
+# Unfolding Target Detection with State Space Model
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-This repository contains the open-source code for the paper: *NeuroDet: Unfolding Target Detection with State Space Model*.
+This repository contains the open-source code for the paper: **NeuroDet: Unfolding Target Detection with State Space Model**.
 
 ## Paper Abstract
 
-[Coming soon.]
+Target detection is a fundamental task in radar sensing, serving as the precursor to any further processing for various applications. Numerous detection algorithms have been proposed. Classical methods based on signal processing, e.g., the most widely used CFAR, are challenging to tune and sensitive to environmental conditions. Deep learning-based methods can be more accurate and robust, yet usually lack interpretability and physical relevance. In this paper, we introduce a novel method that combines signal processing and deep learning by unfolding the CFAR detector with a state space model architecture. By reserving the CFAR pipeline yet turning its sophisticated configurations into trainable parameters, our method achieves high detection performance without manual parameter tuning, while preserving model interpretability. We implement a lightweight model of only 260K parameters and conduct real-world experiments for human target detection using FMCW radars. The results highlight the remarkable performance of the proposed method, outperforming CFAR and its variants by 10 times in detection rate and false alarm rate.
 
 ## Repository Structure
 
