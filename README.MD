@@ -1,4 +1,4 @@
-# Inf: Interpretable Non-tuning Neural False Alarm Rate Detector
+# NeuroDet: Unfolding Target Detection with State Space Model
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 This repository contains the open-source code for the paper: *[Insert Paper Title Here]*.
